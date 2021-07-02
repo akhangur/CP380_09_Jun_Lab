@@ -1,0 +1,17 @@
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\world-population-by-country.csv
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\BenfordLab.exe
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\BenfordLab.deps.json
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\BenfordLab.runtimeconfig.json
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\BenfordLab.runtimeconfig.dev.json
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\BenfordLab.dll
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\ref\BenfordLab.dll
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\bin\Debug\net5.0\BenfordLab.pdb
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.csproj.AssemblyReference.cache
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.AssemblyInfoInputs.cache
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.AssemblyInfo.cs
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.csproj.CoreCompileInputs.cache
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.dll
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\ref\BenfordLab.dll
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.pdb
+C:\Users\amand\Downloads\CP380-BenfordLab-master\CP380-BenfordLab-master\BenfordLab\obj\Debug\net5.0\BenfordLab.genruntimeconfig.cache
